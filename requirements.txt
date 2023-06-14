@@ -1,0 +1,15 @@
+transformers
+datasets
+torch
+easyocr
+chardet
+cchardet
+streamlit
+torchvision
+lmdb
+pillow
+nltk
+natsort
+fire
+rouge_score
+evaluate
